@@ -1,16 +1,14 @@
-## Hi there 👋
+# Cannon Mirka
 
-<!--
-**Cannon-Mirka/cannon-mirka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer building useful open-source projects and thoughtful tools.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Open-source development
+- Practical developer tools
+- Continuous learning and collaboration
+
+## Connect
+
+- GitHub: @Cannon-Mirka
+- Email: cannon-mirka@googlegroups.com
